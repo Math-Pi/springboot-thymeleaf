@@ -7,10 +7,10 @@
 <body>
 <div >
     <div th:switch="${sex}">
-        <p th:case="'woman'">她是一个姑娘...</p>
-        <p th:case="'man'">这是一个爷们!</p>
+        <p th:case="'woman'">她是女的！</p>
+        <p th:case="'man'">他是男的!</p>
         <!-- *: case的默认的选项 -->
-        <p th:case="*">未知性别的一个家伙。</p>
+        <p th:case="*">不男不女!</p>
     </div>
 </div>
 </body>

@@ -1,4 +1,10 @@
-# Spring Boot-Thymeleaf 
+# SpringBoot学习笔记（四）：Thymeleaf基本使用
+
+[Thymeleaf官网](https://www.thymeleaf.org/)
+
+## Thymeleaf的简单介绍
+
+- **Thymeleaf**是适用于Web和独立环境的现代服务器端Java模板引擎。
 
 ## 标准表达式语法
 
